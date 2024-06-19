@@ -1,0 +1,28 @@
+.comman {
+  background: linear-gradient(97.87deg, rgba(2, 43, 61, 0.8) 16.1%, rgba(4, 32, 37, 0.8) 90.86%);
+}
+
+.divcolor {
+  background: linear-gradient(360deg, rgba(3, 136, 134, 0.1) 0%, rgba(27, 160, 136, 0.09409) 41.86%, rgba(29, 166, 165, 0.003) 90.02%);
+background-blend-mode: color-dodge;
+}
+.setting{
+  border: 1px solid #C0F7FF1A
+}
+
+.bordersection {
+  background: linear-gradient(360deg, rgba(3, 136, 134, 0.1) 0%, rgba(27, 160, 136, 0.09409) 41.86%, rgba(29, 166, 165, 0.003) 90.02%);
+  background-blend-mode: color-dodge;
+
+}
+.inputcolor{
+  background: #00000026;
+}
+.borderofleft{
+  border: 1px solid #C0F7FF1A
+}
+.itemcoloring{
+  background: linear-gradient(360deg, rgba(3, 136, 134, 0.1) 0%, rgba(27, 160, 136, 0.09409) 41.86%, rgba(29, 166, 165, 0.003) 90.02%);
+background-blend-mode: color-dodge;
+
+}
